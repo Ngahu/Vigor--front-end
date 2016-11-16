@@ -10,3 +10,16 @@ display: table;
 position: relative;
 
 }
+
+#part{
+  text-align: center;
+
+}
+h3{
+  text-align: center;
+}
+
+#pic{
+  padding-right: 20px;
+  padding-left: 20px;
+}
